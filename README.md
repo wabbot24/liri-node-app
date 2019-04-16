@@ -4,8 +4,6 @@
 
 ------------------------------------------------------------------------
 
-# Spotify API keys
-
 SPOTIFY_ID=YOUR_SPOTIFY_ID
 SPOTIFY_SECRET=YOUR-SPOTIFY_SECRET
 
