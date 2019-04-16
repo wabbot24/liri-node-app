@@ -2,9 +2,12 @@
 
 * To run liri.js create .env file at root with the following:
 
+---------------------------------------------------
 SPOTIFY_ID=YOUR_SPOTIFY_ID
 
 SPOTIFY_SECRET=YOUR-SPOTIFY_SECRET
+
+----------------------------------------------------
 
 You can get your own Spotify Credentials for free here: https://developer.spotify.com/documentation/web-api/quick-start/
 
